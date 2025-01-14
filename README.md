@@ -3,8 +3,8 @@
 
 ## Student Details
 
-- **Full Name:** `<Enter name>`
-- **CCID:** `<Enter ccid>`
+- **Full Name:** `Snigdha Mehta`
+- **CCID:** `1808928`
 
 ## References and Resources
 
